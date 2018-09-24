@@ -29,3 +29,7 @@ META-INF/
 
 ##Mac noise
 .DS_Store
+
+
+## ignore remote-handle.cfg because it contains credentials
+dspace/config/modules/remote-handle.cfg
