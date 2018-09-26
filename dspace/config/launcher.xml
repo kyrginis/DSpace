@@ -385,7 +385,7 @@
         <name>update-handle-prefix</name>
         <description>Update handle records and metadata when moving from one handle to another</description>
         <step>
-            <class>org.dspace.handle.UpdateHandlePrefix</class>
+            <class>org.dspace.handle.UpdateHandlePrefixRemote</class>
         </step>
     </command>
     <command>
